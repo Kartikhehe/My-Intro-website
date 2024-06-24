@@ -1,0 +1,133 @@
+body{
+    
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+
+
+div{
+    
+    width: 100%;
+    /* padding: 40px; */
+    align-items: center;
+    
+}
+
+
+h1 {
+    /* margin: auto auto auto auto; */
+    font-family: 'SacraMento',cursive;
+    font-size: 90px;
+
+    
+    
+}
+
+p{
+    line-height: 2;
+
+}
+
+
+
+.intro{
+    position: absolute;
+    top: 160px;
+    left: 470px;
+    display: inline-block;
+    color: #3ABEF9;
+    text-align: center;
+    
+}
+
+.first{
+    background-color: #A7E6FF;
+    height: 640px;
+
+}
+
+.second{
+    background-color: #55AD9B;
+    height: 150px;
+
+}
+
+.twopoint{
+    
+    background-color: beige;
+    height: 750px;
+}
+
+.third{
+    background-color: #F1F8E8;
+    height: 150px;
+
+}
+
+.bird{
+    width: 5%;
+    position: absolute;
+
+
+}
+
+.clouds{
+    width:20%;
+    position: absolute;
+}
+
+
+.coffee{
+    width: 10%;
+    position: absolute;
+    bottom: 40px;
+}
+
+.film{
+    text-align: right;
+}
+
+.framee{
+    position: absolute;
+    display: none;
+}
+
+.linklogo{
+    width: 4%;
+}
+
+.guitar{
+     position: absolute;
+     bottom: 40px;
+     width: 20%;
+     margin: 0px auto 0px auto;
+}
+
+.sde{
+    text-align: left;
+}
+
+.sun{
+    position: absolute;
+    width: 10%;
+    top: 4%;
+    right: 19%;
+}
+
+.skillimg{
+    
+    width: 10%;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+    border-radius: 100%;
+    
+    border-image-width: 23px;
+    margin: 20px;
+    
+    
+    
+}
+
